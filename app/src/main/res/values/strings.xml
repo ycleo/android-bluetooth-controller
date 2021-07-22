@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Controller</string>
+    <string name="bluetoothStatus"></string>
+    <string name="turnOnButton">Turn On</string>
+    <string name="turnOffButton">Turn Off</string>
+    <string name="discoverableButton">Discoverable</string>
+    <string name="getPairedListButton">Get paired devices</string>
+</resources>
